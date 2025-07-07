@@ -1,12 +1,12 @@
 
-## Hola, soy Viego 👋
+## Hola, soy Viego <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="100" />
 
 <div>
 
 <img align="right" width="320" src="https://i.pinimg.com/564x/fc/ba/99/fcba998175ef64915740e0d248523d01.jpg"/>
 
-<h2> / Sobre mi /</h2>
-  
+<h2> / Sobre mi / </h2> 
+
 - 🧠 Actualmente Aprendiendo Java
 - 👾 un **estudiante** que se abre camino en los nuevos desafios
 - 😄 Me encanta **divertirme** y probar nuevas cosas
